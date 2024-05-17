@@ -15,4 +15,5 @@
 - grim (screenshot)
 - wl-clipboard (clipboard)
 - swaylock (lock screen)
+- swaylock-effects (lock screen)
 - wlogout (logout session)
