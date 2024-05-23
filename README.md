@@ -17,3 +17,4 @@
 - swaylock (lock screen)
 - swaylock-effects (lock screen)
 - wlogout (logout session)
+- btop (task manager)
